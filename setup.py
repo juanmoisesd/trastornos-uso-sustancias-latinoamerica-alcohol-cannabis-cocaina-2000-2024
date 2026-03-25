@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024",
-    version="1.0.0",
-    description="Base de datos de trastornos por uso de sustancias en América Latina (2000–2024): alcohol, cannabis, ",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024",version="1.0.0",description="Base de datos de trastornos por uso de sustancias en América Latina (2000–2024): alcohol, cannabis, " ,author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",keywords="zenodo, open-data")
