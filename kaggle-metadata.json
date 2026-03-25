@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Base de datos de trastornos por uso de sustancias en América Latina (2000–2024): alcohol, cannabis, cocaína, opioides, mortalidad y tratamiento. OSF: https://osf.io/k72qm/\n\nDOI: https://github.com/juanmoisesd/trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024\nGitHub: https://github.com/juanmoisesd/trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024\nAuthor: de la Serna, Juan Moisés",
+  "description": "Base de datos de trastornos por uso de sustancias en América Latina (2000–2024): alcohol, cannabis, cocaína, opioides, mortalidad y tratamiento. OSF: https://osf.io/k72qm/\nDOI: https://github.com/juanmoisesd/trastornos-uso-sustancias-latinoamerica-alcohol-cannabis-cocaina-2000-2024",
   "isPrivate": false
 }
